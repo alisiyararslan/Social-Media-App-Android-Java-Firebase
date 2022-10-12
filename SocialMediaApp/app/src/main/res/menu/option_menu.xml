@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/Profile" android:title="Profile"></item>
+    <item android:id="@+id/addPost" android:title="Add Post"></item>
+    <item android:id="@+id/addFriend" android:title="Add Friend"></item>
+    <item android:id="@+id/friends" android:title="Friends"></item>
+    <item android:id="@+id/friendRequest" android:title="Friend Requests"></item>
+    <item android:id="@+id/signOut" android:title="Sign Out"></item>
+
+</menu>

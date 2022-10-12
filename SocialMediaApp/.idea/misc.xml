@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/gradient.xml" value="0.2595" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/message_input_background.xml" value="0.1" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/drawable/round_blue_shape.xml" value="0.221" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_add_friend.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_all_friends.xml" value="0.165625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_chat.xml" value="0.190625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_feed.xml" value="0.1" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_friend.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_friend_requests.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_message.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_messages.xml" value="0.2" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_profile.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/activity_upload_post.xml" value="0.22010869565217392" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_all_friends.xml" value="0.165625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_chat.xml" value="0.190625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_friend_requests.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_message.xml" value="0.4" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_messages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_row_post.xml" value="0.2140625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/layout/recycler_view_friends.xml" value="0.15726495726495726" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/message_menu.xml" value="0.190625" />
+        <entry key="..\:/Users/siyar/AndroidStudioProjects/SocialMediaApp/app/src/main/res/menu/option_menu.xml" value="0.190625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

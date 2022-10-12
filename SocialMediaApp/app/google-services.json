@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136898116231",
+    "project_id": "socialmediaapp-ede99",
+    "storage_bucket": "socialmediaapp-ede99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136898116231:android:297d178f0cc72066335622",
+        "android_client_info": {
+          "package_name": "com.siyararslan.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136898116231-b095u166ai3hihvkp378afi0mgh46k3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCEnuUPinB4Yu0qQWmkDH9zmd_zwWasY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136898116231-b095u166ai3hihvkp378afi0mgh46k3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_blue_shape"
+        android:padding="8dp"
+
+        android:orientation="horizontal">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/postProfileCardview"
+            android:layout_marginHorizontal="10dp"
+            app:cardCornerRadius="60dp"
+            android:layout_marginTop="5dp"
+
+            android:layout_width="35dp"
+            android:layout_height="35dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/friend_request_small_profile_image"
+                android:scaleType="centerCrop"
+                android:src="@drawable/selectprofileimage"></ImageView>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/senderEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="15dp"
+            android:text="james@gmail.com"
+            android:textColor="@color/black"
+            android:textSize="14sp"></TextView>
+        <Space
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent" />
+
+        <Button
+            android:id="@+id/approve"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+
+
+            android:text="Approve"
+            android:textSize="8sp"></Button>
+
+        <Button
+            android:id="@+id/reject"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+
+            android:text="Reject"
+            android:textSize="8sp"></Button>
+    </LinearLayout>
+
+
+</LinearLayout>
